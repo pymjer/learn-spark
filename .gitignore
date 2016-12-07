@@ -12,7 +12,7 @@ target/
 lib_managed/
 src_managed/
 project/boot/
-project/plugins/project/
+project/plugins/project/w
 
 # Scala-IDE specific
 .scala_dependencies
@@ -20,10 +20,10 @@ project/plugins/project/
 ### Java template
 
 # Mobile Tools for Java (J2ME)
-.mtj.tmp/
+.mtj.tmp/w
 
 # Package Files #
-*.jar
+*.jarw
 *.war
 *.ear
 
